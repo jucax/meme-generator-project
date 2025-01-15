@@ -1,4 +1,4 @@
-
+// Main code for the App
 function App() {
   return (
     <div className="App">
