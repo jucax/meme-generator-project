@@ -20,4 +20,5 @@ function App() {
   );
 }
 
+// Export app
 export default App;
