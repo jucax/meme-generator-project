@@ -1,1 +1,1 @@
-Contains all the files for a memev generator that allowed me to practice the basic contents.
+Contains all the files for a c generator that allowed me to practice the basic contents.
