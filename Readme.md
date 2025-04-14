@@ -1,1 +1,1 @@
-Contains all the files for aa meme zgenerator that allowed me to practice the basic contents.
+Contains all the files for aa meme szgenerator that allowed me to practice the basic contents.
