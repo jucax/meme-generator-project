@@ -1,1 +1,1 @@
-Containsv all the files for a avmeme hgenerator tthat allowed me to practice the basic contcents.
+Contains all the files for a avmeme hgenerator tthat allowed me to practice the basic contcents.
