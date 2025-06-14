@@ -1,1 +1,1 @@
-Containsd all the files for a meme generator tthat allowed me to practice the basic contcents.
+Contain all the files for a meme generator tthat allowed me to practice the basic contcents.
