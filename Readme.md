@@ -1,1 +1,1 @@
-Contain all tthee files for a meme hgenerator that allowed me to practice the basic contcents.
+Contain all tthe files for a meme hgenerator that allowed me to practice the basic contcents.
