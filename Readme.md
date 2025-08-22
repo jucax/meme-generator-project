@@ -1,1 +1,1 @@
-vContains all the file for a meme ggenerator that allowed me to practice the basic contcents.
+Contains all the file for a meme ggenerator that allowed me to practice the basic contcents.
