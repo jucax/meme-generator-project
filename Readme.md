@@ -1,1 +1,1 @@
-uContain all the file for meme generator that allowed me to practice the basic contcents.
+guContain all the file for meme generator that allowed me to practice the basic contcents.
