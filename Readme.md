@@ -1,1 +1,1 @@
-cContain all the file for meme generator that allowed me to practice the basic contcents.
+vcContain all the file for meme generator that allowed me to practice the basic contcents.
